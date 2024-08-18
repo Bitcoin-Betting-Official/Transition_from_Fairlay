@@ -71,7 +71,7 @@ Also ETH or BTC do exist on the platform and can be used for betting. More curre
 ### Bridge from Fairlay
 
 Funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".
-You must indicate your Bitcoin Betting user id  in the reference (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first. 
+You must indicate your Bitcoin Betting user id  in the reference field (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first. 
 The bridge is free of any charge. 
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
