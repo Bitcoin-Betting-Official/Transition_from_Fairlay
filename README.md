@@ -11,7 +11,7 @@ The rather high costs of maintaining our centralized server infrastructure, host
 
 ### No collection of personal data, completely pseudonymous
 
-No collection of private user data like Email, Name or ID-Card will ever be required. The entire identity is managed by your Crypto Currency Wallet like MetaMask, WalletConnect or similar.  
+No collection of private user data like email, name or passport will ever be required. Your entire identity is managed by your crypto currency wallet like MetaMask, WalletConnect or similar.  
 
 ### Speed
 
