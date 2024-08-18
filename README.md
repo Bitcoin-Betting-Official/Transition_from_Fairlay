@@ -51,6 +51,11 @@ Each Transaction has to be signed before it can be transfmitted, making a bit mo
 
 Bad Actors can no longer be easily stopped. 
 
+## Miner Fees
+
+Each Transaction that is mined to the decentralized ledger like any bet or transfer involves a small fee that is going to the Node that mines this transaction. The usual transaction costs is not more than 1 satoshi per transaction. Always make sure to keep a tiny amount of WBTC or BTC in your wallet to cover these fees. 
+
+
 
 ## How to participate
 
@@ -76,6 +81,43 @@ https://x.com/_bitcoinbetting
 ## Incentives to switch
 
 On Fairlay a fee bomb was implemented. Commissions for newly created markets will rise by 0.01% each two weeks.  This is to incentivize a slow but steady transition to the new platform.  
+
+
+## Funding
+
+# Bridge from Ethereum
+It is encouraged to use WBTC as main currency for betting.  To perform any deposit and withdrawal a small amount of Ether is required in your wallet.  To obtain WBTC with BTC there are many possibilities:
+
+1. Bridge BTC to tBTC on https://dashboard.threshold.network/tBTC/mint.  This will take around 1 hour. Then you can swap tBTC vs WBTC on curve.fi. Around 10 USD worth of ETH are probably required to make this transaction.
+2. Buy WBTC by depositing BTC on Binance.
+3. Use Thorswap
+
+Also ETH or BTC do exist on the platform and can be used for betting. More currencies can be created and minted by using the API.
+
+# Bridge from Fairlay
+
+Funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".
+You must indicate your Bitcoin Betting user id  in the reference (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first. 
+The bridge is free of any charge. 
+
+# Withdraw mBTC from Bitcoin Betting to Fairlay
+
+You can send funs back by making a transfer to user 1. Do not send ETH or WBTC. Only BTC are supported.  You must reference your Fairlay User ID  like for example in the reference field. For example 1016024. Do not write anything further.
+
+# Direct BTC Deposits (Update):
+
+Temporarily a very simple  centralized Bitcoin wallet was created that allows direct deposits of BTC to the platform.
+
+Instructions (please read carefully before depositing) : 
+- Only deposit to that wallet from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
+- Only deposit full mBTC amounts + an amount of satoshis that indicate your user id on the Bitcoin Betting platform.
+- Only send BTC to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 and test with smaller amounts first.
+
+For example:
+- by sending  0.00500013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7   5.00011 mBTC will be credited to the user with ID 13.
+- by sending  0.00710013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds will be LOST because user 10013 does not exist.  
+- by sending  0.00700000 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds will be LOST because user 0 does not exist.  
+
 
 
 
