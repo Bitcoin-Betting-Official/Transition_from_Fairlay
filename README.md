@@ -51,7 +51,7 @@ Each Transaction has to be signed before it can be transfmitted, making a bit mo
 
 Bad Actors can no longer be easily stopped. 
 
-## Miner Fees
+### Miner Fees
 
 Each Transaction that is mined to the decentralized ledger like any bet or transfer involves a small fee that is going to the Node that mines this transaction. The usual transaction costs is not more than 1 satoshi per transaction. Always make sure to keep a tiny amount of WBTC or BTC in your wallet to cover these fees. 
 
