@@ -76,14 +76,14 @@ The bridge is free of any charge.
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
 
-You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC.  You must reference your Fairlay user ID in the reference field. For example 1016024. Do not write anything further.
+You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.
 
 ### Direct BTC Deposits (Update):
 
 Temporarily a very simple  centralized Bitcoin wallet was created that allows direct deposits of BTC to the platform.
 
 Instructions (please read carefully before depositing) : 
-- Only deposit to that wallet from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
+- Only deposit to the given address from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
 - Only deposit full mBTC amounts + an amount of satoshis that indicate your user id on the Bitcoin Betting platform.
 - Only send BTC to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 and test with smaller amounts first.
 
