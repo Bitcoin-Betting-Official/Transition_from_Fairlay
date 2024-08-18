@@ -105,7 +105,7 @@ https://app.aragon.org/#/daos/ethereum/bitcoin-betting.dao.eth/dashboard
 
 But reports and any feature proposal that is accepted by the DAO will usually be rewarded directly by sending WBTC to the Ethereum address of the initiator of the proposal.
 
-A governance forum is planned, for now it should be sufficient to discuss matters in the Chat on:
+A governance forum is planned, for now it should be sufficient to discuss matters in the chat on:
 
 https://app.bitcoin-betting.com
 
