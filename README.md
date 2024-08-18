@@ -63,7 +63,7 @@ But reports and any feature proposal that is accepted by the DAO will usually be
 
 A governance forum is planned, for now it should be sufficient to discuss matters in the Chat on:
 
-app.bitcoin-betting.com
+https://app.bitcoin-betting.com
 
 It should also be possible to trade ownership tokens of Bitcoin-Betting: bbet tokens (Contract address 0x60b8b2bf009a90d3864068bff2c2cb37d86b12ec).   There exist a maximum of 1 million bbet tokens that represent full ownership of all source code, IP, domains and funds associated with Bitcoin Betting.
 
