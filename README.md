@@ -100,7 +100,7 @@ On Fairlay a fee bomb was implemented. Commissions for newly created markets wil
 
 ## How to participate and connect
 
-### Get in touch
+### Getting in touch
 
 The platform is fully governed by the Bitcoin Betting DAO.  All protocol and UI changes are decided by the DAO. Furthermore the DAO will hold all fees and commissions that are ever collected. 
 Proposals can be initiated via :
@@ -123,7 +123,9 @@ It should also be possible to trade ownership tokens of Bitcoin-Betting: bbet to
 
 These tokens can be traded on uniswap. 
 
+### Running a Node
 
+Running your own node is highly encouraged. Requirements are 16 GB of RAM, 2vCPU and a server with ubuntu 20.04 or higher and about 30 minutes of time to set it up.  For instructions please get in touch.  
 
 
 
