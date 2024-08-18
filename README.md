@@ -61,7 +61,7 @@ Each Transaction that is mined to the decentralized ledger like any bet or trans
 
 ### Bridge from Fairlay
 
-Funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".
+During the transition period funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".
 You must indicate your Bitcoin Betting user id  in the reference field (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first. 
 The bridge is free of any charge. 
 
@@ -71,12 +71,12 @@ You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC
 
 ### Direct BTC Deposits:
 
-During the transition period a very simple Bitcoin is available allows direct deposits of BTC to the platform.
+Also during the transition period a very simple Bitcoin wallet is available that allows direct deposits of BTC to the platform.
 
 Instructions (please read carefully before depositing) : 
-- Only deposit to the given address from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
+- Only deposit to the address bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
 - Only deposit full mBTC amounts + an amount of satoshis that indicate your user id on the Bitcoin Betting platform.
-- Only send BTC to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 and test with smaller amounts first.
+- Test with small amounts first.
 
 For example:
 - by sending  0.00500013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7   5.00011 mBTC will be credited to the user with ID 13.
