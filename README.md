@@ -55,17 +55,17 @@ Bad Actors can no longer be easily stopped.
 ## How to participate
 
 The platform is fully governed by the Bitcoin Betting DAO.  All protocol and UI changes are decided by the DAO. Furthermore the DAO will hold all fees and commissions that are ever collected. 
-Proposals can be initiated via https://app.aragon.org/#/daos/ethereum/bitcoin-betting.dao.eth/dashboard
+Proposals can be initiated via https://app.aragon.org/#/daos/ethereum/bitcoin-betting.dao.eth/dashboard  !
 
 But reports and any feature proposal that is accepted by the DAO will usually be rewarded directly by sending WBTC to the Ethereum address of the initiator of the proposal.
 
-A governance forum is planned, for now it should be sufficient to discuss matters in the Chat on app.bitcoin-betting.com
+A governance forum is planned, for now it should be sufficient to discuss matters in the Chat on app.bitcoin-betting.com.
 
 It should also be possible to trade ownership tokens of Bitcoin-Betting: bbet tokens (Contract address 0x60b8b2bf009a90d3864068bff2c2cb37d86b12ec).   There exist a maximum of 1 million bbet tokens that represent full ownership of all source code, IP, domains and funds associated with Bitcoin Betting.
 
 These tokens can be traded on any decentralized platform, for example uniswap. 
 
-New Proposals and updates from the DAO will also be published on https://x.com/_bitcoinbetting
+New Proposals and updates from the DAO will also be published on https://x.com/_bitcoinbetting.
 
 ## Incentives to switch
 
