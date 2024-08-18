@@ -4,8 +4,8 @@ Fairlay will soon  transition to the new decentralized version of the Bitcoin Pr
 
 ## Why is the change necessary?
 
-Uncertainty in the different regulatory environments in the many jurisdictions we want to serve are the key reason for making this step necessary. Furthermore a decentralized network makes us more resilient against DDoS Attacks, server outages and many other attacks.
-The rather high costs of maintaining our centralized server infrastructure, hosting the website, maintaining a hot wallet and so on will not allow us to keep the old site running for much longer than March 2025.   
+Uncertainty in the different regulatory environments in the many jurisdictions we want to serve is the key reason making this step necessary. Furthermore, a decentralized network makes us more resilient against DDoS attacks, server outages and many other threats.
+The high costs of maintaining our centralized server infrastructure, hosting the website, maintaining a hot wallet and so on will not allow us to keep the old site running for much longer than March 2025.   
 
 ## What is getting better?
 
