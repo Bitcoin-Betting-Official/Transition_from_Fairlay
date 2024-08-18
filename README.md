@@ -76,7 +76,7 @@ The bridge is free of any charge.
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
 
-You can send funs back by making a transfer to user 1. Do not send ETH or WBTC. Only BTC are supported.  You must reference your Fairlay User ID  like for example in the reference field. For example 1016024. Do not write anything further.
+You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC.  You must reference your Fairlay user ID in the reference field. For example 1016024. Do not write anything further.
 
 ### Direct BTC Deposits (Update):
 
