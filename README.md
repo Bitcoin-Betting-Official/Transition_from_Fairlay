@@ -23,7 +23,7 @@ The improved UI is designed to address less advanced users who always had proble
 
 ### New Users and Referral Program
 
-With the release it will be again possible to invite new users. We actively encourage you to use this feature and invite all friends, co-workers and family members that take an interest in trading and betting.  The platform will only be available via invite to keep scammers, match fixers, money launderers and other bad actors out. 
+With the release it will be again possible to invite new users. We actively encourage you to use this feature and invite all friends, co-workers and family members that take an interest in trading and betting.  The platform will only be available via invite to keep scammers, match fixers, money launderers and other bad actors out.  You will receive 10% of all generated commissions of any user you invite and also of any subsequent user that is referred.
 
 ### Full Transparency 
 
