@@ -100,6 +100,8 @@ On Fairlay a fee bomb was implemented. Commissions for newly created markets wil
 
 ## How to participate and connect
 
+### Get in touch
+
 The platform is fully governed by the Bitcoin Betting DAO.  All protocol and UI changes are decided by the DAO. Furthermore the DAO will hold all fees and commissions that are ever collected. 
 Proposals can be initiated via :
 
@@ -111,13 +113,17 @@ A governance forum is planned, for now it should be sufficient to discuss matter
 
 https://app.bitcoin-betting.com
 
+New Proposals and updates from the DAO will also be published on:
+
+https://x.com/_bitcoinbetting
+
+### Ownership
+
 It should also be possible to trade ownership tokens of Bitcoin-Betting: bbet tokens (Contract address 0x60b8b2bf009a90d3864068bff2c2cb37d86b12ec).   There exist a maximum of 1 million bbet tokens that represent full ownership of all source code, IP, domains and funds associated with Bitcoin Betting.
 
 These tokens can be traded on uniswap. 
 
-New Proposals and updates from the DAO will also be published on:
 
-https://x.com/_bitcoinbetting
 
 
 
