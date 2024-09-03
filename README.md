@@ -35,7 +35,7 @@ Each transaction, let it be a transfer or a bet or a settlement must be signed w
 
 ### Faster Deposits
 
-The platform will allow transactions in any Currency.  From inception BTC, WBTC and ETH will be available. Making deposits via ETH or WBTC can be performed in a trustless manner by using a decentralized so called bridge, a special contract on the Ethereum Blockchain. Such deposits will be available in less than a minute.
+The platform will allow transactions in any currency.  From inception BTC, WBTC and ETH will be available. Making deposits via ETH or WBTC can be performed in a trustless manner by using a decentralized so called bridge, a special contract on the Ethereum Blockchain. Such deposits will be available in less than a minute.
 
 ## What is getting worse?
 
@@ -71,7 +71,7 @@ You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC
 
 ### Direct BTC Deposits:
 
-Also during the transition period a very simple Bitcoin wallet is available that allows direct deposits of BTC to the platform.
+Also during the transition period a very simple Bitcoin wallet is available that allows direct deposits of BTC to the platform. It operates with just one address and is therefor much cheaper to maintain.
 
 Instructions (please read carefully before depositing) : 
 - Only deposit to the address bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
@@ -79,7 +79,7 @@ Instructions (please read carefully before depositing) :
 - Test with small amounts first.
 
 For example:
-- by sending  0.00500013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7   5.00011 mBTC will be credited to the user with ID 13.
+- by sending  0.00500013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7   5.00013 mBTC will be credited to the user with ID 13.
 - by sending  0.00710013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds might be LOST because user 10013 does not exist.  
 - by sending  0.00700000 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds might be LOST because user 0 does not exist.  
 
