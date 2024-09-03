@@ -45,7 +45,8 @@ By design, any transaction is open to the public.
 
 ### Signing
 
-Each Transaction has to be signed before it can be transfmitted, making a bit more cumbersome to place a bet.
+Each Transaction has to be signed before it can be transfmitted, making a bit more cumbersome to place a bet. There will probably be stand-alone applications where you only have to enter your private key once and the signing 
+is done by the application itself. You may contact us to signal demand, if you want access to such an application.
 
 ### No transaction reversal
 
