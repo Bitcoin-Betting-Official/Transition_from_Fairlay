@@ -108,7 +108,7 @@ Proposals can be initiated via :
 
 https://app.aragon.org/#/daos/ethereum/bitcoin-betting.dao.eth/dashboard 
 
-But reports and any feature proposal that is accepted by the DAO will usually be rewarded directly by sending WBTC to the Ethereum address of the initiator of the proposal.
+Any bug report or feature proposal that is accepted by the DAO will usually be rewarded directly by sending WBTC to the Ethereum address of the initiator of the proposal.
 
 A governance forum is planned, for now it should be sufficient to discuss matters in the chat on:
 
@@ -126,7 +126,9 @@ These tokens can be traded on uniswap.
 
 ### Running a Node
 
-Running your own node is highly encouraged. Requirements are 16 GB of RAM, 2vCPU and a server with ubuntu 20.04 or higher and about 30 minutes of time to set it up.  For instructions please get in touch.  
+Running your own node is highly encouraged. Requirements are 16 GB of RAM, 2vCPU and a server with ubuntu 20.04 or higher and about 30 minutes of time to set it up.  For instructions please get in touch. 
+You may contact us via x.com.
+
 
 
 
