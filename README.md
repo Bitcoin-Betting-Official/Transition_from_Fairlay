@@ -101,7 +101,7 @@ On Fairlay a fee bomb was implemented. Commissions for newly created markets wil
 
 ## How to participate and connect
 
-Plase check [https://github.com/Fairlay/Bitcoin-Betting]  for details 
+Plase check https://github.com/Fairlay/Bitcoin-Betting  for details 
 
 
 
