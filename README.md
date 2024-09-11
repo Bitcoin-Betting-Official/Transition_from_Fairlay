@@ -27,7 +27,8 @@ With the release it will be again possible to invite new users. We actively enco
 
 ### Full Transparency 
 
-All Transactions are publicly available for anyone to check and verify. 
+All Transactions are publicly available for anyone to check and verify.  
+A very simple proof of concept for a public block explorer can be found here.  It is in alpha status: http://bitcoin-betting.org:3793/
 
 ### Security
 
