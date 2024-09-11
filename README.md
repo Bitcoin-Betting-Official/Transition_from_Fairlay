@@ -101,35 +101,7 @@ On Fairlay a fee bomb was implemented. Commissions for newly created markets wil
 
 ## How to participate and connect
 
-### Getting in touch
-
-The platform is fully governed by the Bitcoin Betting DAO.  All protocol and UI changes are decided by the DAO. Furthermore the DAO will hold all fees and commissions that are ever collected. 
-Proposals can be initiated via :
-
-https://app.aragon.org/#/daos/ethereum/bitcoin-betting.dao.eth/dashboard 
-
-Any bug report or feature proposal that is accepted by the DAO will usually be rewarded directly by sending WBTC to the Ethereum address of the initiator of the proposal.
-
-A governance forum is planned, for now it should be sufficient to discuss matters in the chat on:
-
-https://app.bitcoin-betting.com
-
-New Proposals and updates from the DAO will also be published on:
-
-https://x.com/_bitcoinbetting
-
-### Ownership
-
-It should also be possible to trade ownership tokens of Bitcoin-Betting: bbet tokens (Contract address 0x60b8b2bf009a90d3864068bff2c2cb37d86b12ec).   There exist a maximum of 1 million bbet tokens that represent full ownership of all source code, IP, domains and funds associated with Bitcoin Betting.
-
-These tokens can be traded on uniswap. 
-
-### Running a Node
-
-Running your own node is highly encouraged. Requirements are 16 GB of RAM, 2vCPU and a server with ubuntu 20.04 or higher and about 30 minutes of time to set it up.  For instructions please get in touch. 
-You may contact us via x.com.
-
-
+Plase check [https://github.com/Fairlay/Bitcoin-Betting]  for details 
 
 
 
