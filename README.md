@@ -2,6 +2,19 @@
 
 Fairlay will soon  transition to the new decentralized version of the Bitcoin Prediction Market called Bitcoin Betting. The company behind Fairlay will cease to exist and with it all centralized infrastructure like servers, hot wallets, funds, emails and so forth. 
 
+
+
+## Important Changes to Funding your Fairlay Account
+
+By Decemeber 1st, Fairlay will shut down the Hot Wallet. It is too expensive to maintain. Please do not deposit to your regular deposit address after November 1st.   
+
+The Priority wallet will remain available for withdrawals.   
+
+Direct deposits to Fairlay will continue to be possible via www.bitcoin-betting.com/deposit. This form will lead you to an instance of BTCPayServer on www.bitcoin-betting.org to process your deposit.  
+
+For every deposit you need to generate a new deposit address. Do not reuse addresses!
+
+
 ## Why is the change necessary?
 
 Uncertainty in the different regulatory environments in the many jurisdictions we want to serve is the key reason making this step necessary. Furthermore, a decentralized network makes us more resilient against DDoS attacks, server outages and many other threats.
@@ -59,7 +72,9 @@ Each Transaction that is mined to the decentralized ledger like any bet or trans
 
 
 
-## Funding
+## Funding your Bitcoin Betting Account
+
+
 
 ### Bridge from Fairlay
 
@@ -73,19 +88,10 @@ You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC
 
 ### Direct BTC Deposits:
 
-Also during the transition period a very simple Bitcoin wallet is available that allows direct deposits of BTC to the platform. It operates with just one address and is therefor much cheaper to maintain.
-
-Instructions (please read carefully before depositing) : 
-- Only deposit to the address bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 from a wallet, where you have the private keys and that you control or your might lose all your Bitcoins!  
-- Only deposit full mBTC amounts + an amount of satoshis that indicate your user id on the Bitcoin Betting platform.
-- Test with small amounts first.
-
-For example:
-- by sending  0.00500013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7   5.00013 mBTC will be credited to the user with ID 13.
-- by sending  0.00710013 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds might be LOST because user 10013 does not exist.  
-- by sending  0.00700000 BTC  to bc1qqre694gpveud05y40cy3r5l96ltu6ftn0f7pd7 all funds might be LOST because user 0 does not exist.  
+BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose WBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet. 
 
 ### Bridge from Ethereum
+
 It is encouraged to use WBTC as main currency for betting.  To perform any deposit and withdrawal a small amount of Ether is required in your wallet.  To obtain WBTC with BTC there are many possibilities:
 
 1. Bridge BTC to tBTC on https://dashboard.threshold.network/tBTC/mint.  This will take around 1 hour. Then you can swap tBTC vs WBTC on curve.fi. Around 10 USD worth of ETH are probably required to make this transaction.
