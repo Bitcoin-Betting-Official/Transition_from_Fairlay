@@ -4,7 +4,7 @@ Fairlay will soon  transition to the new decentralized version of the Bitcoin Pr
 
 
 
-## Important Changes to Funding your Fairlay Account
+## Funding your Fairlay Account
 
 By Decemeber 1st, Fairlay will shut down the Hot Wallet. It is too expensive to maintain. Please do not deposit to your regular deposit address after November 1st.   
 
