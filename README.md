@@ -1,10 +1,9 @@
 # Transition from Fairlay to Bitcoin Betting
 
-Fairlay will soon  transition to the new decentralized version of the Bitcoin Prediction Market called Bitcoin Betting. The company behind Fairlay will cease to exist and with it all centralized infrastructure like servers, hot wallets, funds, emails and so forth. 
+Fairlay will soon  transition to the new decentralized version of the Bitcoin Prediction Market called Bitcoin Betting. The company behind Fairlay will cease to exist and with it all centralized infrastructure like servers, hot wallets, funds, emails and so forth. We are currently prioritizing new users and those who have low or mid-sized betting amounts for onboarding. 
 
 
-
-## Unified way to fund your Fairlay and Bitcoin Betting Account with Bitcoin
+## New unified way to fund your Fairlay and Bitcoin Betting Account with Bitcoin
 
 By Decemeber 1st, Fairlay will shut down the Hot Wallet. It is too expensive to maintain. Please do not deposit to your regular deposit address after November 1st.   
 
@@ -17,10 +16,7 @@ For every deposit you need to generate a new deposit address. Do not reuse addre
 See more in the Funding your Bitcoin Betting Account
 
 
-
-
 ## Funding your Bitcoin Betting Account
-
 
 
 ### Bridge from Fairlay
