@@ -41,13 +41,11 @@ BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit.
 
 It is encouraged to use WBTC as main currency for betting.  To perform any deposit and withdrawal a small amount of Ether is required in your wallet.  To obtain WBTC with BTC there are many possibilities:
 
-1. Bridge BTC to tBTC on https://dashboard.threshold.network/tBTC/mint.  This will take around 1 hour. Then you can swap tBTC vs WBTC on curve.fi. Around 10 USD worth of ETH are probably required to make this transaction.
+1. Bridge BTC to tBTC on https://dashboard.threshold.network/tBTC/mint.  This will take around 1 hour. Then you can swap tBTC vs WBTC on curve.fi. Around 10 USD worth of ETH are probably required to make this transaction. 
 2. Buy WBTC by depositing BTC on Binance.
 3. Use Thorswap
 
-Also ETH or BTC do exist on the platform and can be used for betting. More currencies can be created and minted by using the API.
-
-
+Using Option 1 is recommended, because there are almost no fees and no KYC required. 
 
 ## Incentives to switch
 
