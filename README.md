@@ -27,21 +27,15 @@ The bridge is free of any charge.
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
 
-You can send mBTC back by making a transfer to user 1. Do not send mETH or mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.
+You can send mBTC back by making a transfer to user 1. Do not send mETH, rBTC, mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.
 
 ### Direct BTC Deposits:
 
-BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose WBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet. 
+BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet. 
 
 ### Bridge from Ethereum
 
-It is encouraged to use WBTC as main currency for betting.  To perform any deposit and withdrawal a small amount of Ether is required in your wallet.  To obtain WBTC with BTC there are many possibilities:
-
-1. Bridge BTC to tBTC on https://dashboard.threshold.network/tBTC/mint.  This will take around 1 hour. Then you can swap tBTC vs WBTC on curve.fi. Around 10 USD worth of ETH are probably required to make this transaction. 
-2. Buy WBTC by depositing BTC on Binance.
-3. Use Thorswap
-
-Using Option 1 is recommended, because there are almost no fees and no KYC required. 
+It is encouraged to use RBTC as main currency for betting. 
 
 ## Incentives to switch
 
