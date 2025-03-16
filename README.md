@@ -5,9 +5,7 @@ Fairlay will soon  transition to the new decentralized version of the Bitcoin Pr
 
 ## New unified way to fund your Fairlay and Bitcoin Betting Account with Bitcoin
 
-By Decemeber 1st, Fairlay will shut down the Hot Wallet. It is too expensive to maintain. Please do not deposit to your regular deposit address after November 1st.   
-
-The Priority wallet will remain available for withdrawals.   
+The Priority Wallet at Fairlay will remain available for withdrawals.   
 
 Direct deposits to Fairlay will continue to be possible via www.bitcoin-betting.com/deposit. This form will lead you to an instance of BTCPayServer on www.bitcoin-betting.org to process your deposit.  
 
@@ -21,25 +19,20 @@ See more in the Funding your Bitcoin Betting Account
 
 ### Bridge from Fairlay
 
-During the transition period funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".
-You must indicate your Bitcoin Betting user id  in the reference field (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first. 
-The bridge is free of any charge. 
+~~During the transition period funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".~~
+~~You must indicate your Bitcoin Betting user id  in the reference field (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first.~~
+~~The bridge is free of any charge.~~
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
 
-You can send mBTC back by making a transfer to user 1. Do not send mETH, rBTC, mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.
+~~You can send mBTC back by making a transfer to user 1. Do not send mETH, rBTC, mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.~~
+
+It is recommended to use RBTC as main betting currency. You will have all the same features available that you enjoyed with BTC - including fast BTC deposits and instant withdrawals receivable in BTC or RBTC.  
 
 ### Direct BTC Deposits:
 
-BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet. 
-
-### Bridge from Ethereum
-
-It is encouraged to use RBTC as main currency for betting. 
-
-## Incentives to switch
-
-On Fairlay a fee bomb was implemented. Commissions for newly created markets will rise by 0.01% each two weeks.  This is to incentivize a slow but steady transition to the new platform.  
+~~BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet.~~
+It is recommended to use the BTC deposit option in the App. That way you will always have you BTC stored in a trustless manner in RBTC in a smart contract. 
 
 ## How to participate and connect
 
