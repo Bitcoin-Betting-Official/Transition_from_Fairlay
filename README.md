@@ -74,7 +74,7 @@ Each transaction, let it be a transfer or a bet or a settlement must be signed w
 
 ### Faster Deposits
 
-The platform will allow transactions in any currency.  From inception BTC, WBTC and ETH will be available. Making deposits via ETH or WBTC can be performed in a trustless manner by using a decentralized so called bridge, a special contract on the Ethereum Blockchain. Such deposits will be available in less than a minute.
+The platform will allow transactions in any currency.  From inception BTC and ETH will be available. Making deposits via ETH can be performed in a trustless manner by using a decentralized so called bridge, a special contract on the Ethereum Blockchain. Such deposits will be available in less than a minute.
 
 ## What is getting worse?
 
