@@ -11,9 +11,6 @@ Direct deposits to Fairlay will continue to be possible via www.bitcoin-betting.
 
 For every deposit you need to generate a new deposit address. Do not reuse addresses!
 
-See more in the Funding your Bitcoin Betting Account
-
-
 ## Funding your Bitcoin Betting Account
 
 
