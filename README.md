@@ -32,6 +32,7 @@ It is recommended to use RBTC as main betting currency. You will have all the sa
 ### Direct BTC Deposits:
 
 ~~BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet.~~
+
 It is recommended to use the BTC deposit option in the App. That way you will always have you BTC stored in a trustless manner in RBTC in a smart contract. 
 
 ## How to participate and connect
