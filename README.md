@@ -18,19 +18,19 @@ For every deposit you need to generate a new deposit address. Do not reuse addre
 
 ~~During the transition period funds can be easily bridged from Fairlay by sending a certain mBTC amount to the Fairlay user "bridge".~~
 ~~You must indicate your Bitcoin Betting user id  in the reference field (and nothing else).  So for example  15. Do not write "15" or 'user 15' or anything further or the transaction will fail.  Test with small amounts first.~~
-~~The bridge is free of any charge.~~
+~~The bridge is free of any charge.~~  (still possible, but not recommended)
 
 ### Withdraw mBTC from Bitcoin Betting to Fairlay
 
-~~You can send mBTC back by making a transfer to user 1. Do not send mETH, rBTC, mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.~~
+~~You can send mBTC back by making a transfer to user 1. Do not send mETH, rBTC, mWBTC.  You must reference your Fairlay user API ID in the reference field. Fairlay user id can be found in your Profile section. For example: 1016024. Do not write anything further.~~  (still possible, but not recommended)
 
 It is recommended to use RBTC as main betting currency. You will have all the same features available that you enjoyed with BTC - including fast BTC deposits and instant withdrawals receivable in BTC or RBTC.  
 
 ### Direct BTC Deposits:
 
-~~BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet.~~
+~~BTC Deposits to Bitcoin Betting are possibe via www.bitcoin-betting.com/deposit. If you choose RBTC as betting currency, all your funds are held in a smart contract. When you choose BTC, your funds will be stored in the Fairlay cold wallet.~~  (still possible, but not recommended)
 
-It is recommended to use the BTC deposit option in the App. That way you will always have you BTC stored in a trustless manner in RBTC in a smart contract. 
+It is recommended to use the BTC deposit option in the App. That way, you will always have your BTC stored in a trustless manner in form of RBTC in a smart contract. 
 
 ## How to participate and connect
 
